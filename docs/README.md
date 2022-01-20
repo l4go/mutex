@@ -1,7 +1,7 @@
 l4go/mutex ライブラリ
 ===
 
-golangの`sync`ライブラリ、`Mutex`で不足する機能を追加したモジュール群です。
+* golangの`sync`ライブラリ、`Mutex`で不足する機能を追加したモジュール群です
 	* `sync.Locker` interfaceに互換があります
 
 * [mutex.UgMutex](./UgMutex.md)
